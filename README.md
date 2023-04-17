@@ -1,2 +1,1 @@
-# OmarWaleed
-Welcome to my GitHub account
+# Hi, This is Omar Waleed
